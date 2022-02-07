@@ -1,6 +1,6 @@
-# nateapp
+# Pokemon Search App - from VTech Google Developer Student Clubs
 
-A new Flutter project.
+A Flutter project that demonstrated during the workshop on 2022 Feb, 02 by Nathaniel Chai.
 
 ## Getting Started
 
